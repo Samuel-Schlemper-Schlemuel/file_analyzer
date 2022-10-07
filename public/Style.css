@@ -1,0 +1,17 @@
+body{
+    font: 16px Arial;
+    text-align: center;
+}
+
+input{
+    font-size: 16px;
+}
+
+#submit{
+    margin: 10px 0px;
+    width: 300px;
+}
+
+footer{
+    font-size: 12px;
+}
